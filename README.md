@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Allen/Allen/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AllenPrasana/Allenprasana/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
