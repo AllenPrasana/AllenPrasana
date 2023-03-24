@@ -54,7 +54,7 @@
 
 ###
 
-![snake animation](https://github.com/AllenPrasana/AllenPrasana/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/Allen/Allen/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
